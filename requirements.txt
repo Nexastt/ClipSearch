@@ -1,0 +1,11 @@
+streamlit==1.33.0
+chromadb
+Pillow
+ftfy
+regex
+tqdm
+scikit-image
+numpy
+torchvision
+torch 
+git+https://github.com/openai/CLIP.git
