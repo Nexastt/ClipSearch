@@ -1,9 +1,8 @@
-streamlit==1.33.0
+streamlit
 chromadb
 Pillow
-ftfy
-regex
-tqdm
+open-clip-torch
+opencv-python-headless
 scikit-image
 numpy
 torchvision
